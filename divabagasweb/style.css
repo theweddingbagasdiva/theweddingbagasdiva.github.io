@@ -1,0 +1,12 @@
+<style> 
+    @font-face {
+    font-family: latin;
+    src: url(./webfont/Andrea-Bellarosa.woff2);
+    }
+
+    h2{
+    font-family: 'latin';
+    font-size: 70pt;
+    font-variant: inherit;
+    }
+</style>
